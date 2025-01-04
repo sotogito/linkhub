@@ -2,5 +2,6 @@
 ---
 ### [코딩 컨벤션](https://github.com/sotogito/sukipi-coding-conventions.git)
 ### [자기소개서 저장](https://github.com/sotogito/sukipi-personal-statements.git)
+### [프로젝트 아이디어들](https://github.com/sotogito/project-ideas-archive.git)
 ---
 ### [2024 일기](https://github.com/sotogito/sukipi2024.git)
