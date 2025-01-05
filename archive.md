@@ -1,4 +1,4 @@
-### [Morning Pages 2025](https://github.com/sotogito/morning-pages-2025.git)
+### [창조성을 위한 Morning Pages 2025](https://github.com/sotogito/morning-pages-2025.git)
 ---
 ### [코딩 컨벤션](https://github.com/sotogito/sukipi-coding-conventions.git)
 ### [자기소개서 저장](https://github.com/sotogito/sukipi-personal-statements.git)
