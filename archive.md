@@ -6,4 +6,4 @@
 ### [공부 자료 링크](https://github.com/sotogito/study-linkhub.git)
 ### [Roadmap-백엔드](https://github.com/sotogito/roadmaps-backend-developer.git)
 ---
-### [2024 일기](https://github.com/sotogito/sukipi2024.git)
+### [철학을 위한 2024 일기](https://github.com/sotogito/sukipi2024.git)
