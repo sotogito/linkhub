@@ -1,5 +1,5 @@
 ### [인격체 지향 프로그래밍 (Person-Oriented Programming, POP)](https://github.com/sotogito/person-oriented-programming.git)
 ### [점블-점프 (엉망진창 코드 만들기)](https://github.com/sotogito/jumble-jump.git)
 ### [아로새기다-VR](https://github.com/sotogito/Aroseagida2023_VR_Unity.git), [아로새기다-web](https://github.com/sotogito/Aroseagida2023_Web_Django.git), [아로새기다-3D](https://github.com/sotogito/Aroseagida2023_3D_Unity.git)
-### [나가기전에](https://github.com/team-UND), [나가기전에 묹서](https://github.com/sotogito/before-going.docs)
+### [나가기전에](https://github.com/team-UND), [나가기전에 문서](https://github.com/sotogito/before-going.docs)
 ### [noodle.zip](), [noodel.zip 문서](https://github.com/sotogito/noodleZip.docs)
