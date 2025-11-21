@@ -3,4 +3,4 @@
 ### [인격체 지향 프로그래밍 (Person-Oriented Programming, POP)](https://github.com/sotogito/person-oriented-programming.git)
 ### [noodle.zip](), [noodel.zip 문서](https://github.com/sotogito/noodleZip.docs)
 ### [나가기전에](https://github.com/team-UND), [나가기전에 문서](https://github.com/sotogito/before-going.docs)
-### [morning page 모닝페이지](https://www.sukipi.me/the-little-things/do/morning-page/index.html)
+### [morning page 모닝페이지](https://morning-page.vercel.app/)
